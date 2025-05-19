@@ -1,0 +1,35 @@
+.card {
+    gap: 32px;
+    padding: 32px;
+    border: 1px solid;
+    margin-bottom: 32px;
+}
+
+.flexBox {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+img {
+    max-width: 200px;
+}
+
+.cardIcon {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 4px;
+    margin-right: 8px;
+}
+img.icon {
+    max-width: 16px;
+}
+
+h1 {
+    margin: 0 0 16px 0;
+}
+
+h2 {
+    margin: 0 0 16px 0
+}
